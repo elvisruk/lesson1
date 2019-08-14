@@ -1,0 +1,79 @@
+h1{
+	color: yellow;
+	background-color: maroon;
+	font-size: 70px;
+}
+
+/*.TEN{
+	background-color: blue;
+}
+.ELEVEN{
+	background-color: blue;
+}
+.TWELVE{
+	background-color: blue;
+}
+.THIRTEEN{
+	background-color: blue;
+}
+.FOURTEEN{
+	background-color: blue;
+}
+.FIFTEEN{
+	background-color: blue;
+}
+
+*/
+.nine{
+	display: flex;
+	padding: 35px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+/*p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;
+}
+*/
+
+img{
+  width:150px;
+  height:250px;
+  border-style: inset;
+
+}
+ul{
+	border-style: double;
+	text-align: center;
+	font-size: 40px;
+	color:green;
+	font-family: Merriweather;
+	/*display: flex;
+	flex-wrap: wrap;*/
+}
+body{
+	border: 2px solid blue;
+}
+
+ol{
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: left;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	font-family: Lobster;
+}
+li{
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: left;
+	flex-wrap: wrap;
+}

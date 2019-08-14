@@ -1,0 +1,56 @@
+li{
+	color: green;
+
+}
+h1{
+	color: blue;
+}
+body{
+	background-color: maroon;
+}
+
+.two{
+	background-color: yellow;
+}
+
+.three{
+	background-color: red;
+}
+.four{
+	background-color: white;
+}
+.five{
+	background-color: blue;
+}
+
+.six{
+	background-color: grey;
+}
+.seven{
+	background-color: orange;
+}
+.eight{
+	background-color: black;
+}
+.nine{
+	background-color: pink;
+}
+.ten{
+	background-color: white;
+}
+.eleven{
+background-color: red;
+}
+
+ul{
+	display: flex;
+	padding: 35px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+li{
+	background-color: grey;
+}
+
+
